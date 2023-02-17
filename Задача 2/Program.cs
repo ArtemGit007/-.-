@@ -11,7 +11,7 @@ int t = x;
 if(x < y)
 {
     x = (x + y)/2;
-    y = x*y*2;
+    y = t*y*2;
     Console.WriteLine("{0}, {1}", x, y);
 }
 
