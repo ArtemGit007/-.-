@@ -15,3 +15,9 @@
 **Задача 7**   Написать программу проверяющую будет ли данное четырёхзначное число читаться одинаково слева направо и справа налево.([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%207/Program.cs))
 
 **Задача 8**   Написать программу проверяющую будут ли цифры данного четырёхзначного числа N образовывать строго возрастающую последовательность. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%208/Program.cs))
+
+**Задача 9** Написать программу, которая по заданным трем числам определяет, является ли сумма каких-либо двух из них положительной. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%209/Program.cs))
+
+**Задача 10** Написать программу, которая проверяла бы истинность высказывания: все цифры данного четырёхзначного числа N различны. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2010/Program.cs))
+
+**Задача 11** Определить максимальное и минимальное значения из двух различных вещественных чисел. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2011/Program.cs))
