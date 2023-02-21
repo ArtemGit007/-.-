@@ -21,3 +21,7 @@
 **Задача 10** Написать программу, которая проверяла бы истинность высказывания: все цифры данного четырёхзначного числа N различны. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2010/Program.cs))
 
 **Задача 11** Определить максимальное и минимальное значения из двух различных вещественных чисел. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2011/Program.cs))
+
+**Задача 12** Дано двузначное число. Определить: 1. какая из его цифр больше:  первая или вторая; 2. одинаковы ли его цифры. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2012/Program.cs))
+
+**Задача 13**  Дано двузначное число. Определить: 1. Кратна ли трем сумма его цифр; 2. Кратна ли сумма его цифр числу а. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2013/Program.cs))
