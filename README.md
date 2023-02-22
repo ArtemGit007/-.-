@@ -26,4 +26,11 @@
 
 **Задача 12** Дано двузначное число. Определить: 1. какая из его цифр больше:  первая или вторая; 2. одинаковы ли его цифры. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2012/Program.cs))
 
-**Задача 13**  Дано двузначное число. Определить: 1. Кратна ли трем сумма его цифр; 2. Кратна ли сумма его цифр числу а. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2013/Program.cs))
+**Задача 13**  Дано двузначное число. Определить: 1. Кратна ли трем сумма его цифр; 2. Кратна ли сумма его цифр числу а. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2013/Program.cs)
+
+---------------------------------------------
+**Задача 14** Дано двузначное число. Определить: а. является ли сумма его цифр двузначным числом; б. больше ли числа а сумма его цифр.  ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2014/Program.cs ))
+
+**Задача 15** Дано натуральное число. Определить: а. является ли оно четным; б. оканчивается ли оно цифрой 7.. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2015/Program.cs ))
+
+**Задача 16**Дано трехзначное число. Определить, равен ли квадрат этого числа сумме кубов его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2016/Program.cs ))
