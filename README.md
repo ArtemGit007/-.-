@@ -1,3 +1,5 @@
+![1618670824_654691_url](https://user-images.githubusercontent.com/119147958/220416035-bc592c21-97d4-4400-bba7-1fb62ca8a2ee.jpeg)
+
 # Программирование задач по теме «Ветвление. Условный оператор»
 
 **Задача 1**   Даны два различных вещественных числа. Определить: а) какое из них больше; б) какое из них меньше. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%201/Program.cs))
