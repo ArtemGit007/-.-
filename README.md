@@ -36,3 +36,5 @@
 **Задача 16** Дано трехзначное число. Определить, равен ли квадрат этого числа сумме кубов его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2016/Program.cs))
 
 **Задача 17** Дано трехзначное число. Определить: а. является ли сумма его цифр двузначным числом; б. является ли произведение его цифр трехзначным числом. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2017/Program.cs))
+
+**Задача 18** Даны объемы и массы двух тел из разных материалов. Материал какого из тел имеет большую плотность? ([Вариант решения для целочисленных значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2018/Program.cs ))
