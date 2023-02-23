@@ -54,4 +54,4 @@
 
 **Задача 24** Дано натуральное число. Верно ли, что оно заканчивается четной цифрой? ([Вариант решения для целочисленных значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2024/Program.cs))
 
-**Задача 25** Дано трехзначное число. Верно ли, что все его цифры одинаковые? ([Вариант решения для целочисленных значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2025/Program.cs))
+**Задача 25** Дано трехзначное число. Верно ли, что все его цифры одинаковые?  ([Вариант решения для целочисленных значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2025/Program.cs))
