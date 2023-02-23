@@ -37,21 +37,21 @@
 
 **Задача 17** Дано трехзначное число. Определить: а. является ли сумма его цифр двузначным числом; б. является ли произведение его цифр трехзначным числом. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2017/Program.cs))
 
-**Задача 18** Даны объемы и массы двух тел из разных материалов. Материал какого из тел имеет большую плотность? ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2018/Program.cs ))
+**Задача 18** Даны объемы и массы двух тел из разных материалов. Материал какого из тел имеет большую плотность? ([Вариант решения для целых чисел](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2018/Program.cs ))
 
-**Задача 19** Если целое число m делится нацело на целое число n, то вывести на экран частное от деления, в противном случае вывести сообщение «m на n нацело не делится». ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2019/Program.cs))
+**Задача 19** Если целое число m делится нацело на целое число n, то вывести на экран частное от деления, в противном случае вывести сообщение «m на n нацело не делится». ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2019/Program.cs))
 
-**Задача 20** Известны год и номер месяца рождения человека, а также год и номер месяца сегодняшнего дня (январь – 1 и т. д.). Определить возраст человека (число полных лет). В случае совпадения указанных номеров месяцев считать, что прошел полный год. ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2020/Program.cs))
+**Задача 20** Известны год и номер месяца рождения человека, а также год и номер месяца сегодняшнего дня (январь – 1 и т. д.). Определить возраст человека (число полных лет). В случае совпадения указанных номеров месяцев считать, что прошел полный год. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2020/Program.cs))
 
-**Задача 20(1)** Известны год и номер месяца рождения человека, а также год и номер месяца сегодняшнего дня (январь – 1 и т. д.). Определить возраст человека (число полных лет). В случае совпадения указанных номеров месяцев считать, что прошел полный год. ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2020(1)/Program.cs))
+**Задача 20(1)** Известны год и номер месяца рождения человека, а также год и номер месяца сегодняшнего дня (январь – 1 и т. д.). Определить возраст человека (число полных лет). В случае совпадения указанных номеров месяцев считать, что прошел полный год. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2020(1)/Program.cs))
 
-**Задача 21** Написать программу нахождения суммы большего и меньшего из 3 чисел. ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2021/Program.cs))
+**Задача 21** Написать программу нахождения суммы большего и меньшего из 3 чисел. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2021/Program.cs))
 
 **Задача 22** Определить, является ли число a делителем числа b?
- ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2022/Program.cs))
+ ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2022/Program.cs))
 
-**Задача 23** Дано натуральное число. Верно ли, что оно заканчивается нечетной цифрой? ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2023/Program.cs))
+**Задача 23** Дано натуральное число. Верно ли, что оно заканчивается нечетной цифрой? ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2023/Program.cs))
 
-**Задача 24** Дано натуральное число. Верно ли, что оно заканчивается четной цифрой? ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2024/Program.cs))
+**Задача 24** Дано натуральное число. Верно ли, что оно заканчивается четной цифрой? ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2024/Program.cs))
 
-**Задача 25** Дано трехзначное число. Верно ли, что все его цифры одинаковые?  ([Вариант решения для цельночиленых значений](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2025/Program.cs))
+**Задача 25** Дано трехзначное число. Верно ли, что все его цифры одинаковые?  ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2025/Program.cs))
