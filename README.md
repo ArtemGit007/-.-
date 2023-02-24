@@ -55,3 +55,13 @@
 **Задача 24** Дано натуральное число. Верно ли, что оно заканчивается четной цифрой? ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2024/Program.cs))
 
 **Задача 25** Дано трехзначное число. Верно ли, что все его цифры одинаковые?  ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2025/Program.cs))
+
+**Задача 26** Дано трехзначное число. Определить, какая из его цифр больше: а) первая или последняя; б. первая или вторая; в. вторая или последняя. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2026/Program.cs))
+
+**Задача 27** Дано трехзначное число. Определить, какая из его цифр больше: а. первая или последняя; б. первая или вторая; в. вторая или последняя. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2027/Program.cs))
+
+**Задача 28** Дано трехзначное число. Определить: больше ли числа а произведение его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./commit/696963304fa42ebf07da222a04875fa76c3f004a))
+
+**Задача 29** Дано трехзначное число. Определить: кратна ли пяти сумма его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2029/Program.cs))
+
+**Задача 30** Дано трехзначное число. Определить: кратна ли сумма его цифр числу а. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./commit/b03d11f463d9f7754e9656c02b1d4ca8745d0844))
