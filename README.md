@@ -65,3 +65,19 @@
 **Задача 29** Дано трехзначное число. Определить: кратна ли пяти сумма его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2029/Program.cs))
 
 **Задача 30** Дано трехзначное число. Определить: кратна ли сумма его цифр числу а. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./commit/b03d11f463d9f7754e9656c02b1d4ca8745d0844))
+
+**Задача 31(1)**  Дано четырехзн:ачное число. Написать программу определения кратности трем суммы его цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2031(1)/Program.cs))
+
+**Задача 31** Написать программу заполнения массива случайными рандомными числами от 0 до 36, длина массива n ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2031/Program.cs))
+
+**Задача 32**  Дано четырехзначное число. Написать программу определения
+кратности четырем произведения его цифр.([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2032/Program.cs))
+
+**Задача 33**   Дано трехзначное число N. Написать программу проверки, 
+ будет ли сумма его цифр четным числом. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2033/Program.cs))
+
+**Задача 34**  Дано четырехзначное число. Написать программу определения:  равна ли сумма двух первых его цифр сумме двух его последних цифр. ([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2034/Program.cs))
+
+**Задача 35**   Даны два угла треугольника (в градусах). Написать программу определения: существует ли такой треугольник. Если да, то будет ли он прямоугольным.([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2035/Program.cs))
+
+**Задача 36**  Даны две точки А(х1, y1) и В(х2, у2). Написать программу алгоритма, определяющего, какая из точек находится ближе к началу координат.([Вариант решения](https://github.com/ArtemGit007/Programming-tasks-on-the-topic-Branching.-Conditional-operators-./blob/master/Задача%2036/Program.cs))
