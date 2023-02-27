@@ -10,9 +10,9 @@ int c = Convert.ToInt32(Console.ReadLine());
 
 if(a == b&&b == c&&c == a)
 {
-    Console.WriteLine("Треугольник равносторонний");
+    Console.WriteLine("Треугольник равносторонний.");
 }
 else
 {
-    Console.WriteLine("Треугольник не равносторонний");
+    Console.WriteLine("Треугольник не равносторонний.");
 }
