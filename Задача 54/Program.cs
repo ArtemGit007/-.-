@@ -14,7 +14,7 @@ if(daynum == 3)
 }
 if(daynum == 4)
 {
-    Console.WriteLine("Четверг. До выходных один дня");
+    Console.WriteLine("Четверг. До выходных один день");
 }
 if(daynum == 5)
 {
