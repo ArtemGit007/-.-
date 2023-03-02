@@ -4,23 +4,23 @@
 // является k-й день високосного года, в котором 1 января среда.
 
 Console.WriteLine("Введите число от 1 до 365:");
-int n = Convert.ToInt32(Console.ReadLine());
+int weekday = Convert.ToInt32(Console.ReadLine());
 
-if(n == 1|(n)%7 == 1)
+if((weekday == 1|(weekday)%7 == 1)&&weekday < 366)
 Console.WriteLine("Среда.");
-if(n == 2|(n)%7 == 2)
+if((weekday == 2|(weekday)%7 == 2)&&weekday < 366)
 Console.WriteLine("Четверг.");
-if(n == 3|(n)%7 == 3)
+if((weekday == 3|(weekday)%7 == 3)&&weekday < 366)
 Console.WriteLine("Пятница.");
-if(n == 4|(n)%7 == 4)
+if((weekday == 4|(weekday)%7 == 4)&&weekday < 366)
 Console.WriteLine("Суббота.");
-if(n == 5|(n)%7 == 5)
+if((weekday == 5|(weekday)%7 == 5)&&weekday < 366)
 Console.WriteLine("Воскресенье.");
-if(n == 6|(n)%7 == 6)
+if((weekday == 6|(weekday)%7 == 6)&&weekday < 366)
 Console.WriteLine("Понедельник.");
-if(n == 7|(n)%7 == 0)
+if((weekday == 7|(weekday)%7 == 0)&&weekday < 366)
 Console.WriteLine("Вторник.");
 
-if((n) > 366)
+if(weekday > 365)
 Console.WriteLine("Введено некорректное значение.");
 
