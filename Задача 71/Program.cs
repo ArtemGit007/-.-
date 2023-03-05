@@ -13,8 +13,8 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите достоинство карты:");
 int n = Convert.ToInt32(Console.ReadLine());
 
-if(m > 4||n > 14)
-Console.WriteLine("Вы не разбираетесь в картах, либо ввели неверный номер масти или достоинства карты");
+if(m > 4||n > 14||n < 6)
+Console.WriteLine("Вы не разбираетесь в картах, либо ввели неверный номер масти или достоинства карты, либо колода 54 карты.");
 
 
 if(m == 1&&n == 6&&(m < 5&&n < 15))
