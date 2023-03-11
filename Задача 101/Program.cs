@@ -3,7 +3,7 @@
 // и массе M выдавала бы соответствующее значение массы в граммах.
 
 string buf1;
-Console.WriteLine("Введите значение масссы:");
+Console.WriteLine("Введите значение массы:");
 buf1 = Console.ReadLine();
 double m = Convert.ToDouble(buf1);
 
@@ -12,7 +12,7 @@ Console.WriteLine("Введите номер единицы измерения (
 buf2 = Console.ReadLine();
 double num = Convert.ToDouble(buf2);
 
-if(num ==1)
+if(num ==1 )
 {
     double gr = m*1000;
     Console.WriteLine("{0} килограмм это {1} грамм", m, gr);
