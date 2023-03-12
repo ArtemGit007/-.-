@@ -12,9 +12,6 @@ Console.WriteLine("Введите номер единицы измерения (
 buf2 = Console.ReadLine();
 double num = Convert.ToDouble(buf2);
 
-
-
-
 if(num == 1)
 Console.WriteLine("Длина {0} дц. равна {1} cm", + length, (length*10));
 
