@@ -1120,6 +1120,7 @@ if(x<1000&&x >99)
     if(x ==999) Console.WriteLine("999 -> Девятьсот девяносто девять");
 }
     if(x ==1000) Console.WriteLine("1000 -> Тысяча");
+    if(x == 10000||x > 10000) Console.WriteLine("10000 => Десять тысяч");
 
 
 
