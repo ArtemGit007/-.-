@@ -13,7 +13,7 @@ if(x<10&&x>0)
     if(x ==4) Console.WriteLine("4 -> Четыре");
     if(x ==5) Console.WriteLine("5 -> Пять");
     if(x ==6) Console.WriteLine("6 -> Шесть");
-    if(x ==7) Console.WriteLine("7 -> Семь");
+    if(x ==7) Console.WriteLine("7 => Семь");
     if(x ==8) Console.WriteLine("8 -> Восемь");
     if(x ==9) Console.WriteLine("9 -> Девять");
 }
@@ -70,7 +70,7 @@ if(x<100&&x>19)
 
     if(x ==50) Console.WriteLine("50 -> Пятьдесят");
     if(x ==51) Console.WriteLine("51 -> Пятьдесят  один");
-    if(x ==52) Console.WriteLine("52 -> Пятьдесят два");
+    if(x ==52) Console.WriteLine("52 => Пятьдесят два");
     if(x ==53) Console.WriteLine("53 -> Пятьдесят три");
     if(x ==54) Console.WriteLine("54 -> Пятьдесят четыре");
     if(x ==55) Console.WriteLine("55 -> Пятьдесят пять");
@@ -241,7 +241,7 @@ if(x<1000&&x >99)
     if(x ==201) Console.WriteLine("201 -> Двести один");
     if(x ==202) Console.WriteLine("202 -> Двести два");
     if(x ==203) Console.WriteLine("203 -> Двести три");
-    if(x ==204) Console.WriteLine("204 -> Двести четыре");
+    if(x ==204) Console.WriteLine("204 => Двести четыре");
     if(x ==205) Console.WriteLine("205 -> Двести пять");
     if(x ==206) Console.WriteLine("206 -> Двести шесть");
     if(x ==207) Console.WriteLine("207 -> Двести семь");
