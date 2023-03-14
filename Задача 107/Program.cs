@@ -4,7 +4,7 @@
 string buf;
 Console.WriteLine("Введите число:");
 
-buf = Console.ReadLine();
+buf =Console.ReadLine();
 double x = Convert.ToDouble(buf);
 
 double a = Math.Pow((x%10), 3);
